@@ -7,3 +7,7 @@ sudo docker build https://github.com/Flossyy/dedykowane-dla-zadania.git -t nazwa
 Komenda do pobrania obrazu z docker huba:
 
 sudo docker pull flossyy/dedykowane-dla-zadan
+
+Obraz tworzy się automatycznie przy każdym pushu:
+
+git push
